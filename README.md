@@ -10,5 +10,4 @@ Desenvolvido com:
 
 - HTML
 - CSS
-- JavaScript
 - Bootstrap (Framework Web)
